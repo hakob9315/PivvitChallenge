@@ -1,0 +1,13 @@
+{
+	"version": 3,
+	"file": "ember-app.css",
+	"sourceRoot": "/home/vazgen/projects/PivvitChallenge/ember-app/app/styles",
+	"sources": [
+		"../../sass_compiler-input_base_path-GKJ8zh1g.tmp/app/styles/app.scss"
+	],
+	"sourcesContent": [
+		".offers-table {\n  tr {\n    cursor: pointer;\n  }\n}\n\n"
+	],
+	"names": [],
+	"mappings": "AAAA,AACE,aADW,CACX,EAAE,CAAC;EACD,MAAM,EAAE,OAAO,GAChB"
+}

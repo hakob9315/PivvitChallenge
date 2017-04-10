@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "scripts": {
+    "watch": "cd ember-app && ember build --output-path='../public/ember-app' --watch",
+    "production": "cd ember-app && ember build --output-path='../public/ember-app'  --environment=production"
+  }
+}
