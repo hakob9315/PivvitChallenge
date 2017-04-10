@@ -13,6 +13,6 @@
 * ``` php artisan migrate```
 * ``` php db:seed```
 
-* ```cd ember-app && npm install && cd ..```
+* ```cd ember-app && npm install && bower install && cd ..```
 * ```npm run watch```
 * ```php artisan serve```
